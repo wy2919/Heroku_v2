@@ -1,10 +1,10 @@
 {
-  "name": "ngnix11111",
+  "name": "v2ray-heroku2",
   "description": "deploy VV to Heroku.",
   "keywords": [
     "v2ray"
-  ]
-    "env": {
+  ],
+  "env": {
     "PROTOCOL": {
       "description": "协议vmess或vless",
       "value": "vmess",
