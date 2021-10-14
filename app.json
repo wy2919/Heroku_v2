@@ -1,5 +1,5 @@
 {
-  "name": "v2ray-heroku2",
+  "name": "v2ray-heroku",
   "description": "deploy VV to Heroku.",
   "keywords": [
     "v2ray"
